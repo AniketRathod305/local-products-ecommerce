@@ -1,0 +1,18 @@
+import React from 'react'
+import Article from './Article.js'
+import './Explore.css'
+function Explore() {
+  return (
+    <div id="explorelayout">
+        <Article pagelink="https://www.travelmomentsguru.com/2017/07/28/4-things-to-buy-in-jaipur-that-are-highly-unconventional" imglink="https://kalamtimes.com/uploads/images/news/20211028/x1635429482_1.png.pagespeed.ic.1tLBhR9qg1.jpg" title="Rajasthan" desc="Shopping in Rajasthan is about colorful trinkets, leather goods, spices and even royal jewelry; which makes it one of the best things to do in Rajasthan. The state has made the world go gaga over its artistry, along with its splendid monuments that speak of a legendary past. People come here from across the world, and make their way to home with double the baggage."/>
+        <Article pagelink="https://www.holidify.com/pages/gujarat-culture-139.html" imglink="https://www.holidify.com/images/cmsuploads/articles/519.jpg" title="Gujarat" desc="The diverse and vibrant state of Gujarat has a significant contribution to the cultural aspect of India. The sheer simplicity and amiability of Gujaratis have made them a flourishing community. The state of Gujarat boasts a vibrant art, architecture, culture, and heritage; all of which is quite evident in the day-to-day lives of the locals. The diversity exhibited by Gujarat is a result of the various ethnic groups constituting Gujarat's population; including Indic and Dravidian groups. "/>
+        <Article pagelink="https://angeloftrust.com/8-famous-arts-crafts-of-maharashtra/" imglink="https://angeloftrust.com/wp-content/uploads/2020/07/blog-3.jpg" title="Maharashtra" desc="Maharashtra is a state that is well-known for its rich cultural heritage. Arts and Craft heritage of state of Maharashtra is not hidden from any one. The alluring and eye catching handicraft designs from various districts of the state of Maharashtra make it very popular for its artists’ creativity. Maharashtra is renowned for its diversified and multiple customs, religions, traditions, etc.
+Maharashtra is the city of rich arts and crafts mostly handcrafted by women, tribal and local people to retain the rich culture of the state. Let us have a close look at the most famous arts and crafts of Maharashtra:"/>
+        <Article pagelink="https://www.tourmyindia.com/states/jammu-kashmir/arts-and-crafts.html" imglink="https://www.tourmyindia.com/states/jammu-kashmir/image/art-crafts1.jpg" title="Jammu and Kashmir" desc="Jammu & Kashmir boasts a rich heritage of art and craft. The valley of Kashmir alone is a haven for culture lovers looking forward to witnessing varied art & craft in the state. A glimpse of the state’s rich art & craft heritage can be seen in their lives. From their utensils to clothes to furniture to jewellery almost everything reflects the master skills and dedication of the locals towards the traditional art & craft in Jammu & Kashmir."/>
+        <Article pagelink="https://yehaindia.com/top-10-things-to-buy-in-tamil-nadu/" imglink="https://cdn.yehaindia.com/wp-content/uploads/2021/03/tanjore.jpg" title="Tamil Nadu" desc="Tamil Nadu is one of the most beautiful and culturally significant states of India.The state is known for its magnificent architecture which is often portrayed in the temples, the delicious spicy food, and marvelous classical dance and Carnatic music.It has many famous and ancient cities of India with a cultural history spanning for thousands of years. It went through several historical and cultural changes which immensely impacted its culture."/>
+       
+    </div>
+  )
+}
+
+export default Explore

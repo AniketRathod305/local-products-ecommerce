@@ -1,0 +1,26 @@
+#temp{
+    height:auto;
+    width:90vw;
+    margin: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.tempimg{
+    width:90vw;
+    height:50vh;
+    padding:10px;
+}
+#temptitle{
+    color:black;
+    text-align: center;
+}
+
+#tempdesc{
+    color:rgb(65, 24, 245);
+    padding:5px;
+}

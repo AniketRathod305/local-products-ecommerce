@@ -1,0 +1,32 @@
+.wlayout{
+    height:55vh;
+    width:28vw;
+    padding:1rem;
+    margin:0.5rem;
+    margin-left:15px;
+    background-color: white;
+   
+}
+.pimg{
+    height:30vh;
+    width:28vw;
+    border:1px solid black;
+    border-radius: 3px;
+}
+
+.heading2{
+    text-align:center;
+    padding:3px;
+}
+
+.priceflex{
+    display:flex;
+    justify-content: space-between;
+}
+
+#buybtn{
+
+    width:5vw;
+    border:none;
+    background-color: rgb(238, 178, 12);
+}
